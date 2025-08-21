@@ -44,7 +44,8 @@ next-env.d.ts
 !.dev.vars.example
 .env*
 !.env.example
-wrangler.jsonc
 
-.vscode/
 .github/
+.vscode/
+wrangler.jsonc
+ app-config.ts
